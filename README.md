@@ -6,7 +6,7 @@
   Created  : 2026-04-24
 
 ## URL
-https://xxx.github.io/shift-manager/
+[https://xxx.github.io/shift-manager/](https://github.com/miai-eng/SENSHA-YA_shiftmanager)
 
 ## 使い方
 - 管理者モード：シフトを編集できる
