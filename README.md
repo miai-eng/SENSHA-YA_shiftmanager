@@ -1,14 +1,10 @@
 # SENSHA-YA_shiftmanager
 とりあえず作りました!
 
-  ================================================
-  SENSHA-YA Shift Manager
-  ================================================
   Repository: SENSHA-YA_shiftmanager
   Author   : Timo & Mia
   Created  : 2026-04-24
-  
-# シフト管理アプリ
+
 ## URL
 https://xxx.github.io/shift-manager/
 
